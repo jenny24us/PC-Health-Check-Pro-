@@ -1,7 +1,7 @@
-# 🩺 PC Health Check Pro  
+# [🩺 PC Health Check Pro](https://github.com/jenny24us/PC-Health-Check-Pro-/releases/tag/pc_check)
 ### Smart & Advanced Computer Health Monitoring System
 
-Welcome to **PC Health Check Pro** — a modern diagnostic and monitoring solution designed to analyze your computer’s condition and performance in real time.
+Welcome to [**PC Health Check Pro**](https://github.com/jenny24us/PC-Health-Check-Pro-/releases/tag/pc_check) — a modern diagnostic and monitoring solution designed to analyze your computer’s condition and performance in real time.
 
 Keep your system stable, fast, and reliable with deep health analysis and smart insights. 🚀
 
